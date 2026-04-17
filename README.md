@@ -184,9 +184,9 @@ pip install scikit-learn imbalanced-learn vecstack mlxtend pandas numpy
 
 ## Author
 
-**[Your Name]**
+Santhosh Surendranath
 Data Scientist
-[your.email@domain.com] | [LinkedIn] | [GitHub]
+
 
 ---
 
