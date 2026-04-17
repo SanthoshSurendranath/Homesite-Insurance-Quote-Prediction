@@ -24,10 +24,10 @@ Enable Homesite Insurance to identify prospective customers most likely to conve
 
 ## Dataset
 
-| Dataset | Records | Features | Target | Source |
-|---|---|---|---|---|
-| `RevisedHomesiteTrain1.csv` | 65,000 | 596 | `QuoteConversion_Flag` (0/1) | Google Drive |
-| `RevisedHomesiteTest1.csv` | 173,836 | 595 | — (prediction target) | Google Drive |
+| Dataset | Records | Features | Target |
+|---|---|---|---|
+| `RevisedHomesiteTrain1.csv` | 65,000 | 596 | `QuoteConversion_Flag` (0/1) |
+| `RevisedHomesiteTest1.csv` | 173,836 | 595 | — (prediction target) |
 
 ### Feature Categories
 
